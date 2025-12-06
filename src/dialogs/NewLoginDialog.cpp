@@ -39,6 +39,7 @@ bool NewLoginDialog::pwdValid() {
     return false;
 }
 
+
 void NewLoginDialog::on_newBtn_clicked() {
     if (!pwdValid()) {
         ui->newErrorMsg->setText("Passwords must contain an uppercase and lowercase letter, a number, no whitespace, and be 8 or more characters in length.");
@@ -69,7 +70,6 @@ bool NewLoginDialog::initCrypto() {
     for (int i = 0; i < salt.size(); i++) {
        salt[i] = static_cast<char>(generator->bounded(0, 256));
     }
-    QDataStream randomOut(&salt, QIODevice::WriteOnly);
 
     QString path = QStandardPaths::writableLocation(QStandardPaths::AppDataLocation);
     QDir().mkpath(path);
