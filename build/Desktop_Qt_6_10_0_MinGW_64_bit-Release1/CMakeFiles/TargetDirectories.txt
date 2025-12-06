@@ -1,9 +1,0 @@
-C:/Users/madis/OneDrive/Coding/BSVault/BSVault/build/Desktop_Qt_6_10_0_MinGW_64_bit-Release1/CMakeFiles/BSVault.dir
-C:/Users/madis/OneDrive/Coding/BSVault/BSVault/build/Desktop_Qt_6_10_0_MinGW_64_bit-Release1/CMakeFiles/edit_cache.dir
-C:/Users/madis/OneDrive/Coding/BSVault/BSVault/build/Desktop_Qt_6_10_0_MinGW_64_bit-Release1/CMakeFiles/rebuild_cache.dir
-C:/Users/madis/OneDrive/Coding/BSVault/BSVault/build/Desktop_Qt_6_10_0_MinGW_64_bit-Release1/CMakeFiles/list_install_components.dir
-C:/Users/madis/OneDrive/Coding/BSVault/BSVault/build/Desktop_Qt_6_10_0_MinGW_64_bit-Release1/CMakeFiles/install.dir
-C:/Users/madis/OneDrive/Coding/BSVault/BSVault/build/Desktop_Qt_6_10_0_MinGW_64_bit-Release1/CMakeFiles/install/local.dir
-C:/Users/madis/OneDrive/Coding/BSVault/BSVault/build/Desktop_Qt_6_10_0_MinGW_64_bit-Release1/CMakeFiles/install/strip.dir
-C:/Users/madis/OneDrive/Coding/BSVault/BSVault/build/Desktop_Qt_6_10_0_MinGW_64_bit-Release1/CMakeFiles/BSVault_autogen_timestamp_deps.dir
-C:/Users/madis/OneDrive/Coding/BSVault/BSVault/build/Desktop_Qt_6_10_0_MinGW_64_bit-Release1/CMakeFiles/BSVault_autogen.dir

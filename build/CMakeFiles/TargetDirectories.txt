@@ -1,9 +1,0 @@
-C:/Users/madis/OneDrive/Coding/BSVault/BSVault/build/CMakeFiles/BSVault.dir
-C:/Users/madis/OneDrive/Coding/BSVault/BSVault/build/CMakeFiles/edit_cache.dir
-C:/Users/madis/OneDrive/Coding/BSVault/BSVault/build/CMakeFiles/rebuild_cache.dir
-C:/Users/madis/OneDrive/Coding/BSVault/BSVault/build/CMakeFiles/list_install_components.dir
-C:/Users/madis/OneDrive/Coding/BSVault/BSVault/build/CMakeFiles/install.dir
-C:/Users/madis/OneDrive/Coding/BSVault/BSVault/build/CMakeFiles/install/local.dir
-C:/Users/madis/OneDrive/Coding/BSVault/BSVault/build/CMakeFiles/install/strip.dir
-C:/Users/madis/OneDrive/Coding/BSVault/BSVault/build/CMakeFiles/BSVault_autogen_timestamp_deps.dir
-C:/Users/madis/OneDrive/Coding/BSVault/BSVault/build/CMakeFiles/BSVault_autogen.dir
