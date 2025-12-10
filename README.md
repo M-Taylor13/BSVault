@@ -9,7 +9,7 @@ All data stays offline and is protected by your master password.
 ## Features
 
 - **Offline storage** — no cloud, everything is local  
-- **Strong encryption** using libsodium (Argon2, ChaCha20, etc.)  
+- **Strong encryption** using libsodium (PBKDF2, ChaCha20, etc.)  
 - **Master password–protected vault**  
 - **Encrypted entry storage (`store.bin`)**  
 - **Secure password hashing (`master.hash`)**  
